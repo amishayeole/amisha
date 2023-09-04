@@ -12,12 +12,12 @@ pipeline {
                 echo 'Peter listen to me, you idiot!'
             }
         }
-        stage('Deploy') {
+        stage('Deploy 1') {
             steps {
                 echo 'mj misses you'
             }
         }
-        stage('Deploy') {
+        stage('Deploy 2') {
             steps {
                 echo 'Venom gonna come for you'
             }
