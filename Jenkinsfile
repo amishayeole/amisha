@@ -1,4 +1,3 @@
-# amisha
 pipeline {
     agent any
      stages {
